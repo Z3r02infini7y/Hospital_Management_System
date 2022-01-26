@@ -1,7 +1,7 @@
 (*) Required Libraries:-
     sqlite3
 
-(*) Software requirements:-
+(*) Suggested Softwares:-
     (-)Spyder
     (-)DB Browser
 
